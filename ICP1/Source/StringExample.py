@@ -4,8 +4,6 @@ String1 = str(input('Please enter Input String: '));
 
 String2 = str(input('Please Enter the word to be check: '));
 
-result = String1.find(String2);
-
 if (String1.find(String2)!= -1) :
     print("Required Output is ",String1.replace(String2,String2 + "s"))
 else:
