@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23220ade-18f1-40e2-bcca-3da80d9b31a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c28f6462-298c-4c14-8beb-b6afa0eb70d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/cancer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICP5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ICP6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ICP7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ICP7/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -13,39 +15,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/basicOP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SourceCode/regression.py">
+        <entry file="file://$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/cancer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="182">
+              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SourceCode/wineRegression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SourceCode/winequality-red.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -65,9 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SourceCode/regression.py" />
-        <option value="$PROJECT_DIR$/SourceCode/winequality-red.csv" />
-        <option value="$PROJECT_DIR$/SourceCode/wineRegression.py" />
+        <option value="$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/basicOP.py" />
+        <option value="$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/cancer.py" />
       </list>
     </option>
   </component>
@@ -83,23 +72,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ICP5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ICP5" type="462c0819:PsiDirectoryNode" />
+              <item name="ICP8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ICP8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ICP5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ICP5" type="462c0819:PsiDirectoryNode" />
+              <item name="ICP8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ICP8" type="462c0819:PsiDirectoryNode" />
               <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ICP8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ICP8" type="462c0819:PsiDirectoryNode" />
+              <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearning_Lesson1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,20 +113,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regression">
-    <configuration name="regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ICP5" />
+  <component name="RunManager" selected="Python.cancer">
+    <configuration name="basicOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICP8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SourceCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SourceCode/regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/basicOP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,19 +135,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wineRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ICP5" />
+    <configuration name="cancer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ICP8" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SourceCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SourceCode/wineRegression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/cancer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regression" />
-        <item itemvalue="Python.wineRegression" />
+        <item itemvalue="Python.cancer" />
+        <item itemvalue="Python.basicOP" />
       </list>
     </recent_temporary>
   </component>
@@ -173,11 +168,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="23220ade-18f1-40e2-bcca-3da80d9b31a1" name="Default Changelist" comment="" />
-      <created>1560872708486</created>
+      <changelist id="c28f6462-298c-4c14-8beb-b6afa0eb70d3" name="Default Changelist" comment="" />
+      <created>1562082374417</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560872708486</updated>
+      <updated>1562082374417</updated>
     </task>
     <servers />
   </component>
@@ -185,66 +180,56 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42389524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SourceCode/winequality-red.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/Breas Cancer.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="-187">
+          <caret column="15" selection-start-column="6" selection-end-column="15" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/train.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="677" lean-forward="true" selection-start-column="677" selection-end-column="677" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/wineRegression.py">
+    <entry file="file://$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/diabetes.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/basicOP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        <state relative-caret-position="187">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/regression.py">
+    <entry file="file://$PROJECT_DIR$/SourceCode/DeepLearning_Lesson1/cancer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="182">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
