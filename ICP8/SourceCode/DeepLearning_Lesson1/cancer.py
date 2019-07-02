@@ -25,4 +25,4 @@ my_first_nn_fitted = my_first_nn.fit(X_train, Y_train, epochs=100, verbose=0, in
 
 print(my_first_nn.summary())
 loss, ac = my_first_nn.evaluate(X_test, Y_test, verbose=0)
-print("The accuracy is: ", ac)
+print("The accuracy and Loss is: ", ac,loss)
